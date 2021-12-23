@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8da9b9c7-8623-4a31-8661-fe8586bc988b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case 01/01 Case.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case 01/Case 01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case 01/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case 01/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case 02/Case 2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case 02/assets/images/giphy.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case 02/assets/images/ijse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case 02/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case 03/Case 3 and 4.pdf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="22RdWwunMRoSVdwsJvZfqLa6LOJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Assignments/ORM Coursework/Royal-Institute-Student-Management-System-main/Royal_Institute" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8da9b9c7-8623-4a31-8661-fe8586bc988b" name="Default Changelist" comment="" />
+      <created>1639804368658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639804368658</updated>
+      <workItem from="1639804370547" duration="1845000" />
+      <workItem from="1639835503926" duration="4751000" />
+      <workItem from="1639844668850" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Assignment 01" />
+      <path value="$PROJECT_DIR$/Case 01" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1639844703974">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1639844703974" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1639843618306">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1639843618306" />
+  </component>
+</project>
